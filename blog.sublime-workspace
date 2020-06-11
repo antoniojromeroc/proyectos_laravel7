@@ -1,0 +1,664 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"col-lg-6"
+			],
+			[
+				"btn-l",
+				"btn-block"
+			],
+			[
+				"proj",
+				"projects"
+			],
+			[
+				"bt",
+				"btn-primary"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"Pro",
+				"ProjectController"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"me",
+				"mensaje"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"por",
+				"portafolio2"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"sam",
+				"small\tTag"
+			],
+			[
+				"l",
+				"loop"
+			],
+			[
+				"port",
+				"portafolioItem"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"H",
+				"H1\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/projects/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 2204,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/about.blade.php",
+			"settings":
+			{
+				"buffer_size": 1250,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/partials/session-status.blade.php",
+			"settings":
+			{
+				"buffer_size": 290,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/errors/404.blade.php",
+			"settings":
+			{
+				"buffer_size": 122,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/partials/validation-errors.blade.php",
+			"settings":
+			{
+				"buffer_size": 174,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/home.blade.php",
+			"settings":
+			{
+				"buffer_size": 2276,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/contact.blade.php",
+			"settings":
+			{
+				"buffer_size": 2356,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"materia",
+				"Material Theme: Configuration"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/blog",
+		"/var/www/html/blog/app",
+		"/var/www/html/blog/app/Http",
+		"/var/www/html/blog/resources",
+		"/var/www/html/blog/resources/views",
+		"/var/www/html/blog/resources/views/errors",
+		"/var/www/html/blog/resources/views/partials"
+	],
+	"file_history":
+	[
+		"/var/www/html/blog/resources/sass/_variables.scss",
+		"/var/www/html/blog/routes/web.php",
+		"/var/www/html/blog/resources/views/partials/nav.blade.php",
+		"/var/www/html/blog/resources/views/projects/create.blade.php",
+		"/var/www/html/blog/resources/views/projects/show.blade.php",
+		"/var/www/html/blog/resources/views/projects/edit.blade.php",
+		"/var/www/html/blog/resources/views/projects/_form.blade.php",
+		"/var/www/html/blog/resources/views/layout.blade.php",
+		"/var/www/html/blog/resources/views/about.blade.php",
+		"/var/www/html/blog/resources/sass/app.scss",
+		"/var/www/html/blog/resources/views/auth/verify.blade.php",
+		"/var/www/html/blog/resources/views/auth/register.blade.php",
+		"/var/www/html/blog/resources/views/auth/passwords/reset.blade.php",
+		"/var/www/html/blog/resources/views/auth/passwords/email.blade.php",
+		"/var/www/html/blog/resources/views/auth/passwords/confirm.blade.php",
+		"/var/www/html/blog/resources/views/portafolio.blade.php",
+		"/var/www/html/blog/resources/views/contact.blade.php",
+		"/var/www/html/blog/resources/views/projects/index.blade.php",
+		"/var/www/html/blog/resources/views/home.blade.php",
+		"/var/www/html/blog/app/Http/Controllers/ProjectController.php",
+		"/var/www/html/blog/resources/views/layouts/app.blade.php",
+		"/var/www/html/blog/.env",
+		"/var/www/html/blog/package.json",
+		"/var/www/html/blog/webpack.mix.js",
+		"/var/www/html/blog/app/Http/Controllers/ContactoController.php",
+		"/var/www/html/blog/resources/views/partials/session-status.blade.php",
+		"/var/www/html/blog/app/Project.php",
+		"/var/www/html/blog/app/Http/Requests/SaveProjectRequest.php",
+		"/var/www/html/blog/app/Http/Requests/CreateProjectRequest.php",
+		"/var/www/html/blog/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/var/www/html/blog/app/helpers.php",
+		"/var/www/html/blog/app/Projects.php",
+		"/var/www/html/blog/vendor/phpdocumentor/reflection-common/src/Project.php",
+		"/var/www/html/blog/resources/views/errors/404.blade.php",
+		"/var/www/html/blog/config/database.php",
+		"/var/www/html/blog/database/migrations/2020_06_02_155643_create_projects_table.php",
+		"/var/www/html/blog/resources/views/emails/message-received.blade.php",
+		"/var/www/html/blog/config/mail.php",
+		"/var/www/html/blog/config/services.php",
+		"/var/www/html/blog/app/Mail/MessageReceived.php",
+		"/var/www/html/blog/app/Providers/AppServiceProvider.php",
+		"/var/www/html/blog/resources/lang/es.json",
+		"/var/www/html/blog/config/app.php",
+		"/var/www/html/blog/resources/lang/es/auth.php",
+		"/var/www/html/blog/resources/lang/en/pagination.php",
+		"/var/www/html/blog/resources/lang/es/pagination.php",
+		"/var/www/html/blog/resources/lang/es/passwords.php",
+		"/var/www/html/blog/resources/lang/es/validation.php",
+		"/var/www/html/blog/composer.json",
+		"/var/www/html/blog/app/Http/Controllers/PortafolioController.php",
+		"/var/www/html/blog/app/Http/Controllers/Portafolio2Controller.php",
+		"/var/www/html/blog/resources/views/portafolio2.blade.php",
+		"/var/www/html/blog/public/web.config",
+		"/var/www/html/ipresto2/routes/web.php",
+		"/var/www/html/ipresto2/.env"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/var/www/html/blog"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@extends('layouts.app')",
+			"Blog de Antonio Romero",
+			"'Blog de Antonio Romero'",
+			"MessageController.php",
+			"MessageController",
+			"messageController",
+			"messagecontroller",
+			"message",
+			"email",
+			"\"Before proceeding, please check your email for a verification link.\"",
+			"\"A fresh verification link has been sent to your email address.\"",
+			"\"Verify Your Email Address\"",
+			"\"If you did not create an account, no further action is required.\"",
+			"\"Please click the button below to verify your email address.\"",
+			"\"Verify Email Address\"",
+			"\"Send Password Reset Link\"",
+			"\"If you’re having trouble clicking the \\\":actionText\\\" button, copy and paste the URL below\\ninto your web browser: [:actionURL](:actionURL)\"",
+			"\"Please confirm your password before continuing.\"",
+			"\"If you did not request a password reset, no further action is required.\"",
+			"\"You are receiving this email because we received a password reset request for your account.\"",
+			"\"Register\"",
+			"\"Forgot Your Password?\"",
+			"\"Login\"",
+			"\"Remember Me\"",
+			"\"Password\"",
+			"E-Mail Address",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/projects/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/about.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1194,
+								1194
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/partials/session-status.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/errors/404.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/partials/validation-errors.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/home.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1226,
+								1226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 451.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resources/views/contact.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"public/web.config"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
